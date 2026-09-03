@@ -5,7 +5,6 @@ Exercício de Desenvolvimento Back-End: aplicar **Single Responsibility Principl
 
 ## Estrutura do projeto
 
-```
 aula06_atividade_victoria/
   backend/
     notifications/
@@ -22,7 +21,6 @@ aula06_atividade_victoria/
       components/
         UserProfile.js       → componente (só exibição)
       App.js                 → já ajustado para usar UserProfile
-```
 
 ## o que foi corrigido e por quê
 
